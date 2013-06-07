@@ -402,5 +402,5 @@
 
   <project path="packages/wallpapers/SwagPapers" name="AOKP/packages_wallpapers_SwagPapers_v2" remote="aokp" revision="jb-mr1" />
 
-  <project path="platform_manifest" name="platform_manifest" remote="hj" revision="jb-mr1" />
+  <project path="platform_manifest" name="platform_manifest-1" remote="hj" revision="jb-mr1" />
 </manifest>
